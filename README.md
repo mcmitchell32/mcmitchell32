@@ -1,5 +1,5 @@
 ### Hi there, I'm Marcus 👋
-###### I'm a data analyst with backgrounds in e-commerce and digital marketing. 
+I'm a data analyst with backgrounds in e-commerce and digital marketing. 
 <!--
 **mcmitchell32/mcmitchell32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
