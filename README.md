@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I am a data analyst with backgrounds in e-commerce and digital marketing. 
+###### I am a data analyst with backgrounds in e-commerce and digital marketing. 
 
 
